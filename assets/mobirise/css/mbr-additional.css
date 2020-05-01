@@ -799,10 +799,28 @@ section.lazy-placeholder:after {
     font-size: 0.8rem;
   }
 }
-.cid-rXMc1vpzF0 {
+.cid-rXMgC5LtFM {
   padding-top: 0px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
+  padding-bottom: 0px;
+  background-color: #2e2e2e;
+}
+.cid-rXMgC5LtFM .line {
+  background-color: #313131;
+  color: #313131;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rXMgC5LtFM .section-text {
+  padding: 2rem 0;
+}
+.cid-rXMgC5LtFM .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rXMgC5LtFM .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-rXMcFP7WAc {
   background: #ffffff;
